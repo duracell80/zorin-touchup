@@ -1,2 +1,2 @@
 # zorin-touchup
-Post instalation touch ups for Zorin OS 16
+Post install touch ups for Zorin OS 16
