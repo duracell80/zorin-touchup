@@ -15,3 +15,6 @@ mkdir -p $DIR_REAL_DARK
 
 cp -rf $CWD/icons/White-Icons/* $DIR_TEMP/icons/light
 cp -rf $CWD/icons/Black-Icons/* $DIR_TEMP/icons/dark
+
+cp -rf $CWD/icons/White-Icons/* $DIR_ICON/light
+cp -rf $CWD/icons/Black-Icons/* $DIR_ICON/dark
