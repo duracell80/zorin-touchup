@@ -2,7 +2,7 @@
 
 CWD=$(pwd)
 DIR_TEMP=$HOME/.cache/zorin-touchup
-DIR_ICON=$HOME/.local/zorin-touchup/icons
+DIR_ICON=$HOME/.local/share/zorin-touchup/icons
 DIR_REAL_LIGHT=$HOME/.local/share/icons/Light-Icons
 DIR_REAL_DARK=$HOME/.local/share/icons/Dark-Icons
 

@@ -5,7 +5,7 @@ DIR_NAME=$(gsettings get org.gnome.desktop.interface gtk-theme | sed "s/'//g")
 DIR_FILE_GTK=$DIR_BASE/$DIR_NAME/gtk-3.0/gtk.css
 
 DIR_TEMP=$HOME/.cache/zorin-touchup
-DIR_ICON=$HOME/.local/zorin-touchup/icons
+DIR_ICON=$HOME/.local/share/zorin-touchup/icons
 DIR_REAL_LIGHT=$HOME/.local/share/icons/Light-Icons
 DIR_REAL_DARK=$HOME/.local/share/icons/Dark-Icons
 
