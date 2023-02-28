@@ -28,23 +28,35 @@ echo "FG: ${THEME_COLOR_FG} BG: ${THEME_COLOR_BG} EG: ${THEME_COLOR_EG}"
 FILE_NME=$DIR_TEMP/list.txt
 FILE_TOP=$DIR_TEMP/list_top.txt
 
+# WHITE ICONS
 ls $DIR_TEMP/icons/light/scalable/ > $FILE_TOP
 while read -r LINE; do
 	ls $DIR_TEMP/icons/light/scalable/$LINE/*.svg > $FILE_NME
 	while read -r LINE; do
 		sed -i 's|#cccccc|'${THEME_COLOR_FG}'|g' ${LINE}
 		sed -i 's|#ffaa00|'${THEME_COLOR_EG}'|g' ${LINE}
+
+		sed -i "s|fill:#cccdce|fill:${THEME_COLOR_EG}|g" ${LINE}
+		sed -i "s|stop-color:#ddd|stop-color:${THEME_COLOR_FG}|g" ${LINE}
+    		sed -i "s|stop-color:#fff|stop-color:${THEME_COLOR_FG}|g" ${LINE}
+		sed -i "s|fill:#707073|fill:${THEME_COLOR_BG}|g" ${LINE}
 	done < $FILE_NME
 	rm -f $FILE_NME
 done < $FILE_TOP
 rm -f $FILE_TOP
 
+# BLACK ICONS
 ls $DIR_TEMP/icons/dark/scalable/ > $FILE_TOP
 while read -r LINE; do
         ls $DIR_TEMP/icons/dark/scalable/$LINE/*.svg > $FILE_NME
         while read -r LINE; do
                 sed -i 's|#000000|'${THEME_COLOR_FG}'|g' ${LINE}
                 sed -i 's|#ffaa00|'${THEME_COLOR_EG}'|g' ${LINE}
+
+		sed -i "s|fill:#999|fill:${THEME_COLOR_EG}|g" ${LINE}
+                sed -i "s|stop-color:#000|stop-color:${THEME_COLOR_FG}|g" ${LINE}
+                sed -i "s|stop-color:#666|stop-color:${THEME_COLOR_FG}|g" ${LINE}
+                sed -i "s|fill:#000000|fill:${THEME_COLOR_BG}|g" ${LINE}
         done < $FILE_NME
         rm -f $FILE_NME
 done < $FILE_TOP
