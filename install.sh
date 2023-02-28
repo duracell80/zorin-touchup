@@ -31,3 +31,8 @@ for filename in $CWD/*.desktop; do
     sed -i "s|Exec=~/|Exec=$HOME/|g" "$file.tmp"
     mv -f "$file.tmp" "$HOME/.config/autostart/$file"
 done
+
+# Install Hypnotix 2.0
+cd $CWD
+wget https://ftp5.gwdg.de/pub/linux/debian/mint/packages/pool/main/h/hypnotix/hypnotix_2.0_all.deb && sudo dpkg -i hypnotix_2.0_all.deb 
+#rm -f $CWD/hypnotix_2.0_all.deb
