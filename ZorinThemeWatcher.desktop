@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=~/.local/share/zorin-touchup/remix-icons.sh
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[en_US]=ZorinThemeWatcher.desktop
+Comment[en_US]=Watches for changes to themes and then recalculates accent colors and rebuilds icons
+X-GNOME-Autostart-Delay=5
