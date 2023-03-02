@@ -8,6 +8,8 @@ DIR_REAL=$HOME/.local/share/zorin-touchup
 # REVERT BOOT SPLASH
 # sudo apt install plymouth-theme-zorin-logo_2.2
 
+sudo apt install plymouth-themes
+
 mkdir -p $CWD/deps
 cd $CWD/deps
 wget -nc https://launchpad.net/~zorinos/+archive/ubuntu/stable/+files/plymouth-theme-zorin-logo_2.2_all.deb
