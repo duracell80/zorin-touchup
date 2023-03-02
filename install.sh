@@ -31,3 +31,14 @@ for filename in $CWD/*.desktop; do
     sed -i "s|Exec=~/|Exec=$HOME/|g" "$file.tmp"
     mv -f "$file.tmp" "$HOME/.config/autostart/$file"
 done
+
+# CHANGE THE START MENU ICON FROM Z TO HAMBURGER
+sudo cp -n /usr/share/gnome-shell/extensions/zorin-menu@zorinos.com/zorin-icon-symbolic.svg /usr/share/gnome-shell/extensions/zorin-menu@zorinos.com/zorin-icon-symbolic-original.svg
+sudo cp /usr/share/icons/Zorin/scalable/actions/open-menu-symbolic.svg /usr/share/gnome-shell/extensions/zorin-menu@zorinos.com/zorin-icon-symbolic.svg
+
+# FIX LOGIN SCREEN ON MULTIPLE MONITORS
+sudo cp ~/.config/monitors.xml ~gdm/.config/monitors.xml
+sudo chown gdm:gdm ~gdm/.config/monitors.xml
+
+# INSTALL NEMO
+sudo apt install nemo

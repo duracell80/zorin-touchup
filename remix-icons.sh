@@ -26,6 +26,7 @@ do
 		sleep 5
 		CUR_NAME=$(gsettings get org.gnome.desktop.interface gtk-theme | sed "s/'//g")
 		echo "[i] Theme changed ${CUR_NAME}"
+		notify-send "Zorin Appearance Change Detected!" "The accent color will be applied to the icon pack soon, please wait."
 
 		DIR_FILE_GTK=$DIR_BASE/$CUR_NAME/gtk-3.0/gtk.css
 		DIR_FILE_GSH=$DIR_BASE/$CUR_NAME/gnome-shell/gnome-shell.css

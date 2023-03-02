@@ -6,7 +6,9 @@ DIR_REAL=$HOME/.local/share/zorin-touchup/iptv
 LWD=$HOME/.local/share/powertoys
 LBD=$HOME/.local/bin
 
+sudo apt install git libxapp1
 
+mkdir -p $LBD
 mkdir -p $DIR_TEMP/iptv
 mkdir -p $DIR_REAL
 
@@ -31,6 +33,7 @@ cd $CWD/deps
 wget -nc https://ftp5.gwdg.de/pub/linux/debian/mint/packages/pool/main/h/hypnotix/hypnotix_2.0_all.deb && sudo dpkg -i hypnotix_2.0_all.deb 
 #rm -f $CWD/deps/hypnotix_2.0_all.deb
 
+sudo apt --fix-broken install
 
 # COPY YOUTUBE LIVE CHANNELS TO HYPNOTIX CACHE
 mkdir -p $HOME/Videos/IPTV
@@ -48,17 +51,17 @@ cp -f $CWD/scripts/hypnotix_yt.sh $LWD
 git clone https://github.com/Silicondust/libhdhomerun.git
 cd $CWD/deps/libhdhomerun
 make
-cp $CWD/deps/libhdhomerun/hdhomerun_config $LBD
+cp -f $CWD/deps/libhdhomerun/hdhomerun_config $LBD
 cd $CWD/scripts/
 clear
 
 
 cd $CWD
+$LWD/yt_channels.py
+
 cp -f $CWD/scripts/hdhr_channels.py $LWD
 cp -f $CWD/scripts/hypnotix_hdhr.sh $LWD
 
-
-
 $LWD/hypnotix_hdhr.sh
-$LWD/yt_channels.py
-$LWD/hypnotix_hdhr.sh
+
+echo -e "\n\nIf errors with hdhomerun_config, log out log back in, open new terminal and re-run install"
