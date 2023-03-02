@@ -5,7 +5,7 @@ CWD=$(pwd)
 DIR_TEMP=$CWD/extensions
 DIR_EXTT=$HOME/.local/share/gnome-shell/extensions
 
-sudo apt install chrome-gnome-shell gnome-shell-extension-prefs
+sudo apt install chrome-gnome-shell gnome-shell-extension-prefs gnome-weather
 
 mkdir -p $DIR_EXTT
 cp -rf $DIR_TEMP/expandable-notifications/expandable-notifications@kaan.g.inam.org $DIR_EXTT
