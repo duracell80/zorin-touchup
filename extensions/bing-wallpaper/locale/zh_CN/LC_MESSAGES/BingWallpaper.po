@@ -1,0 +1,305 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-09 13:10+1000\n"
+"PO-Revision-Date: 2021-07-28 23:08+0800\n"
+"Last-Translator: 金立龙 <trampover@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: Settings.ui.h:1 Settings4.ui.h:2
+msgid "Hide the indicator"
+msgstr "隐藏状态栏图标"
+
+#: Settings.ui.h:2 Settings4.ui.h:3
+msgid "Indicator icon"
+msgstr "状态栏图标"
+
+#: Settings.ui.h:3 Settings4.ui.h:4
+msgid "Enable desktop notifications"
+msgstr "打开桌面通知"
+
+#: Settings.ui.h:4 Settings4.ui.h:5 extension.js:129
+msgid "Set background image"
+msgstr "设置桌面壁纸"
+
+#: Settings.ui.h:5 Settings4.ui.h:6 extension.js:130
+msgid "Set lock screen image"
+msgstr "设置锁屏壁纸"
+
+#: Settings.ui.h:6 Settings4.ui.h:7
+msgid "Download folder"
+msgstr "保存下载壁纸的文件夹"
+
+#: Settings.ui.h:7 Settings4.ui.h:1
+msgid "Bing Wallpaper pictures folder"
+msgstr "必应壁纸图片文件夹"
+
+#: Settings.ui.h:8 Settings4.ui.h:9
+msgid "Delete previously downloaded wallpapers"
+msgstr "删除以前下载的壁纸"
+
+#: Settings.ui.h:9 Settings4.ui.h:10
+msgid "Days to store wallpapers before deleting"
+msgstr "删除已使用的壁纸的时间(天)"
+
+#: Settings.ui.h:10 Settings4.ui.h:11
+msgid "Bing locale"
+msgstr ""
+"显示哪个国家的必应壁纸\n"
+"及介绍壁纸详情的语言"
+
+#: Settings.ui.h:11 Settings4.ui.h:12
+msgid "Default is English - United States"
+msgstr "默认英语- 美国"
+
+#: Settings.ui.h:12 Settings4.ui.h:14
+msgid "Screen resolution"
+msgstr "屏幕分辨率"
+
+#: Settings.ui.h:13 Settings4.ui.h:15
+msgid "Override automatic resolution selection"
+msgstr "自适应屏幕分辨率"
+
+#: Settings.ui.h:14 Settings4.ui.h:13
+msgid "Selected image"
+msgstr "已经选择的图片"
+
+#: Settings.ui.h:15 Settings4.ui.h:16 extension.js:132
+msgid "Settings"
+msgstr "设置"
+
+#: Settings.ui.h:16 Settings4.ui.h:17
+msgid "Use custom blur and brightness"
+msgstr "使用自定义模糊和亮度"
+
+#: Settings.ui.h:17 Settings4.ui.h:18
+msgid "Override GDM3 lockscreen effects"
+msgstr "覆盖 GDM3 锁屏效果"
+
+#: Settings.ui.h:18 Settings4.ui.h:19
+msgid "Blur can improve readability of login prompt"
+msgstr "模糊效果能提高登录界面可读性"
+
+#: Settings.ui.h:19 Settings4.ui.h:20
+msgid "Background blur intensity"
+msgstr "背景模糊强度"
+
+#: Settings.ui.h:20 Settings4.ui.h:21
+msgid "Can improve contrast of login prompt"
+msgstr "可以提升登录界面对比度"
+
+#: Settings.ui.h:21 Settings4.ui.h:22
+msgid "Background brightness"
+msgstr "背景亮度"
+
+#: Settings.ui.h:22 Settings4.ui.h:23
+msgid "Presets"
+msgstr "预设配置"
+
+#: Settings.ui.h:23 Settings4.ui.h:24
+msgid "Commonly used presets"
+msgstr "通常使用的预设配置"
+
+#: Settings.ui.h:24 Settings4.ui.h:25
+msgid "No blur, slight dim"
+msgstr "没有模糊效果，亮度微暗"
+
+#: Settings.ui.h:25 Settings4.ui.h:26
+msgid "GNOME default"
+msgstr "GNOME 默认"
+
+#: Settings.ui.h:26 Settings4.ui.h:27
+msgid "Slight blur, slight dim"
+msgstr "轻度模糊，亮度微暗"
+
+#: Settings.ui.h:27 Settings4.ui.h:28
+msgid "Lock Screen"
+msgstr "锁屏"
+
+#: Settings.ui.h:28 Settings4.ui.h:29
+msgid "New wallpaper images everyday from Bing"
+msgstr "每天从 Bing 获取新壁纸"
+
+#: Settings.ui.h:29 Settings4.ui.h:30
+msgid "Gnome shell extension version "
+msgstr "Gnome shell 扩展版本 "
+
+#: Settings.ui.h:30 Settings4.ui.h:31
+msgid "https://github.com/neffo/bing-wallpaper-gnome-extension"
+msgstr "https://github.com/neffo/bing-wallpaper-gnome-extension"
+
+#: Settings.ui.h:31 Settings4.ui.h:32
+msgid "Maintained by Michael Carroll"
+msgstr "由Michael Carroll维护"
+
+#: Settings.ui.h:32 Settings4.ui.h:33
+msgid ""
+"Show your support to the author on <a href=\"https://flattr.com/@neffo"
+"\">Flattr</a> or <a href=\"https://github.com/sponsors/neffo\">Github "
+"Sponsors</a>."
+msgstr ""
+"<a href=\"https://flattr.com/@neffo\">Flattr</a>或<a href=\"https://github."
+"com/sponsors/neffo\">Github Sponsors</a>支持作者."
+
+#: Settings.ui.h:33 Settings4.ui.h:34
+msgid "Changes since last version"
+msgstr "相比上个版本的改变"
+
+#: Settings.ui.h:34 Settings4.ui.h:35
+msgid "Based on NASA APOD Gnome shell extension by Elia Argentieri"
+msgstr "基于美国航空航天局APOD墙纸扩展由Elia Argentieri提供"
+
+#: Settings.ui.h:35 Settings4.ui.h:36
+msgid ""
+"<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"https://www.gnu.org/licenses/gpl-3.0.html\">GNU General "
+"Public License, version 3 or later</a> for details.</span>"
+msgstr ""
+"本程序不担保任何法律责任.\n"
+"参考 <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU通"
+"用公共许可证，版本3或更高版本</a>"
+
+#: Settings.ui.h:37 Settings4.ui.h:38
+msgid "About"
+msgstr "关于"
+
+#: Settings4.ui.h:8
+msgid "Open folder"
+msgstr "打开文件夹"
+
+#: extension.js:117
+msgid "<No refresh scheduled>"
+msgstr "<没有刷新计划>"
+
+#: extension.js:119 extension.js:121 extension.js:123
+msgid "Awaiting refresh..."
+msgstr "正在等待刷新 ... ..."
+
+#: extension.js:126
+msgid "Copy image to clipboard"
+msgstr "复制图片到剪贴板"
+
+#: extension.js:127
+msgid "Copy image URL to clipboard"
+msgstr "复制图片链接到剪贴板"
+
+#: extension.js:128
+msgid "Open image folder"
+msgstr "打开图片文件夹"
+
+#: extension.js:131
+msgid "Refresh Now"
+msgstr "现在刷新"
+
+#: extension.js:137
+msgid "Thumbnail disabled on Wayland"
+msgstr "在 Wayland 上关闭缩略图"
+
+#: extension.js:203
+msgid "Next refresh"
+msgstr "下一次刷新"
+
+#: extension.js:490 extension.js:527
+msgid "Bing Wallpaper of the Day for"
+msgstr "必应每日壁纸图片"
+
+#: extension.js:495
+msgid "Set as wallpaper"
+msgstr "设置为壁纸"
+
+#: extension.js:498
+msgid "More info on Bing.com"
+msgstr "在 Bing.com 上查看更多信息"
+
+#: extension.js:553
+msgid "No wallpaper available"
+msgstr "没有壁纸可用"
+
+#: extension.js:554
+msgid "No picture for today."
+msgstr "今天没有壁纸图片."
+
+#: prefs.js:173
+msgid "Most recent image"
+msgstr "最近的图片"
+
+#: prefs.js:174
+msgid "Random image"
+msgstr "随机图片"
+
+#: prefs.js:190 prefs.js:206
+msgid "Disabled on current GNOME version"
+msgstr "在当前 GNOME 版本关闭本扩展"
+
+#: utils.js:139
+msgid "Fetching data..."
+msgstr "壁纸获取时间..."
+
+#: utils.js:150
+msgid "Market not available in your region"
+msgstr "对不起，在你所在地区不可用"
+
+#: utils.js:154
+msgid "A network error occured"
+msgstr "网络错误"
+
+#: utils.js:159
+msgid "Too many requests in 5 seconds"
+msgstr "5 秒内发送了太多请求"
+
+#: utils.js:186
+msgid "No change log found for this release"
+msgstr "这个版本没有更新日志"
+
+#: utils.js:366 utils.js:369
+msgid "minutes"
+msgstr "分"
+
+#: utils.js:372
+msgid "days"
+msgstr "天"
+
+#: utils.js:375
+msgid "hours"
+msgstr "小时"
+
+#~ msgid ""
+#~ "Changes your wallpaper daily to the Bing picture of the day for your "
+#~ "region. Displays the picture description and copyright information."
+#~ msgstr ""
+#~ "将您的壁纸每天更改为适合您所在地区的必应壁纸图片。 并显示壁纸图片描述和版"
+#~ "权信息的通知。"
+
+#~ msgid "Send a notification with explanation when a new image is downloaded."
+#~ msgstr "下载新的壁纸图片时显示详细说明."
+
+#~ msgid "Notifications"
+#~ msgstr "通知"
+
+#~ msgid "Use transient notifications (auto dismiss)"
+#~ msgstr "更换壁纸时显示通知(自动消失)"
+
+#~ msgid "Show description"
+#~ msgstr "显示详情"
+
+#~ msgid "Open extension settings"
+#~ msgstr "打开扩展设置"
+
+#~ msgid "Bing website"
+#~ msgstr "必应主页"
+
+#~ msgid ""
+#~ "The selected market is not available in your country or geographic "
+#~ "region.\n"
+#~ msgstr "对不起，所选的在您的国家或地区不可用。\n"
+
+#~ msgid "This market is not available in your region"
+#~ msgstr "在您的地区不可用"

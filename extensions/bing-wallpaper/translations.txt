@@ -1,0 +1,30 @@
+# Translation status of statements as at 2023-03-03:
+locale/ar/LC_MESSAGES/BingWallpaper.po: 58 translated messages, 3 fuzzy translations.
+locale/ca/LC_MESSAGES/BingWallpaper.po: 33 translated messages, 9 fuzzy translations, 19 untranslated messages.
+locale/cs/LC_MESSAGES/BingWallpaper.po: 84 translated messages.
+locale/de/LC_MESSAGES/BingWallpaper.po: 81 translated messages.
+locale/en_AU/LC_MESSAGES/BingWallpaper.po: 61 translated messages.
+locale/es/LC_MESSAGES/BingWallpaper.po: 55 translated messages, 2 fuzzy translations, 4 untranslated messages.
+locale/es_ES/LC_MESSAGES/BingWallpaper.po: 54 translated messages, 4 fuzzy translations, 3 untranslated messages.
+locale/fi_FI/LC_MESSAGES/BingWallpaper.po: 53 translated messages, 5 fuzzy translations, 3 untranslated messages.
+locale/fr/LC_MESSAGES/BingWallpaper.po: 31 translated messages, 9 fuzzy translations, 21 untranslated messages.
+locale/fr_FR/LC_MESSAGES/BingWallpaper.po: 50 translated messages, 11 fuzzy translations.
+locale/hu/LC_MESSAGES/BingWallpaper.po: 34 translated messages, 5 fuzzy translations, 22 untranslated messages.
+locale/id/LC_MESSAGES/BingWallpaper.po: 34 translated messages, 6 fuzzy translations, 21 untranslated messages.
+locale/it/LC_MESSAGES/BingWallpaper.po: 80 translated messages.
+locale/ja/LC_MESSAGES/BingWallpaper.po: 61 translated messages, 9 untranslated messages.
+locale/ko/LC_MESSAGES/BingWallpaper.po: 35 translated messages, 1 fuzzy translation, 25 untranslated messages.
+locale/ko_KP/LC_MESSAGES/BingWallpaper.po: 33 translated messages, 1 fuzzy translation, 27 untranslated messages.
+locale/ko_KR/LC_MESSAGES/BingWallpaper.po: 32 translated messages, 2 fuzzy translations, 27 untranslated messages.
+locale/nb/LC_MESSAGES/BingWallpaper.po: 32 translated messages, 8 fuzzy translations, 21 untranslated messages.
+locale/nl/LC_MESSAGES/BingWallpaper.po: 29 translated messages, 11 fuzzy translations, 21 untranslated messages.
+locale/nn/LC_MESSAGES/BingWallpaper.po: 34 translated messages, 6 fuzzy translations, 21 untranslated messages.
+locale/pl/LC_MESSAGES/BingWallpaper.po: 32 translated messages, 7 fuzzy translations, 22 untranslated messages.
+locale/pt/LC_MESSAGES/BingWallpaper.po: 66 translated messages.
+locale/pt_BR/LC_MESSAGES/BingWallpaper.po: 61 translated messages.
+locale/ru/LC_MESSAGES/BingWallpaper.po: 30 translated messages, 4 fuzzy translations, 27 untranslated messages.
+locale/ru_RU/LC_MESSAGES/BingWallpaper.po: 82 translated messages, 3 fuzzy translations.
+locale/sv/LC_MESSAGES/BingWallpaper.po: 66 translated messages.
+locale/uk/LC_MESSAGES/BingWallpaper.po: 82 translated messages.
+locale/zh_CN/LC_MESSAGES/BingWallpaper.po: 61 translated messages.
+locale/zh_TW/LC_MESSAGES/BingWallpaper.po: 33 translated messages, 1 fuzzy translation, 27 untranslated messages.

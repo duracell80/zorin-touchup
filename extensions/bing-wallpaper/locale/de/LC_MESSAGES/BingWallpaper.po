@@ -1,0 +1,427 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Onno Giesmann <nutzer3105@gmail.com>, 2019-2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-14 18:32+1000\n"
+"PO-Revision-Date: 2021-12-14 10:56+0100\n"
+"Last-Translator: Jannick Kuhr\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: ui/Settings.ui.h:1 ui/Settings4.ui.h:2
+msgid "Hide the indicator"
+msgstr "Indikator ausblenden"
+
+#: ui/Settings.ui.h:2 ui/Settings4.ui.h:3
+msgid "Indicator icon"
+msgstr "Indikator-Symbol"
+
+#: ui/Settings.ui.h:3 ui/Settings4.ui.h:4
+msgid "Enable desktop notifications"
+msgstr "Desktop-Benachrichtigungen aktivieren"
+
+#: ui/Settings.ui.h:4 ui/Settings4.ui.h:5 extension.js:118
+msgid "Set background image"
+msgstr "Als Hintergrundbild verwenden"
+
+#: ui/Settings.ui.h:5 ui/Settings4.ui.h:6
+msgid "Background style option"
+msgstr "Einstellungen für Hintergrundstil"
+
+#: ui/Settings.ui.h:6 ui/Settings4.ui.h:7
+msgid "Download folder"
+msgstr "Download-Ordner"
+
+#: ui/Settings.ui.h:7 ui/Settings4.ui.h:1
+msgid "Bing Wallpaper pictures folder"
+msgstr "Ordner für Bing-Hintergrundbilder"
+
+#: ui/Settings.ui.h:8 ui/Settings4.ui.h:8
+msgid "Open folder"
+msgstr "Download-Ordner"
+
+#: ui/Settings.ui.h:9 ui/Settings4.ui.h:9
+msgid "Delete previously downloaded wallpapers"
+msgstr "Zuvor heruntergeladene Hintergrundbilder löschen"
+
+#: ui/Settings.ui.h:10 ui/Settings4.ui.h:10
+msgid "Selected image"
+msgstr "Ausgewähltes Bild"
+
+#: ui/Settings.ui.h:11 ui/Settings4.ui.h:11
+msgid "Select from image gallery"
+msgstr "Aus Bildergalerie auswählen"
+
+#: ui/Settings.ui.h:12 ui/Settings4.ui.h:12
+msgid "Bing locale"
+msgstr "Bing-Region"
+
+#: ui/Settings.ui.h:13 ui/Settings4.ui.h:13 extension.js:121
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ui/Settings.ui.h:14 ui/Settings4.ui.h:14
+msgid "Use custom blur and brightness"
+msgstr "Eigene Unschärfe und Helligkeit einstellen"
+
+#: ui/Settings.ui.h:15 ui/Settings4.ui.h:15
+msgid "Override GDM3 lockscreen effects"
+msgstr "Effekte des GDM3-Sperrbildschirms überschreiben"
+
+#: ui/Settings.ui.h:16 ui/Settings4.ui.h:16
+msgid "Blur can improve readability of login prompt"
+msgstr "Unschärfe kann die Lesbarkeit des Anmeldedialogs verbessern"
+
+#: ui/Settings.ui.h:17 ui/Settings4.ui.h:17
+msgid "Background blur intensity"
+msgstr "Intensität der Hintergrundunschärfe"
+
+#: ui/Settings.ui.h:18 ui/Settings4.ui.h:18
+msgid "Can improve contrast of login prompt"
+msgstr "Kann den Kontrast des Anmeldedialogs verbessern"
+
+#: ui/Settings.ui.h:19 ui/Settings4.ui.h:19
+msgid "Background brightness"
+msgstr "Hintergrundhelligkeit"
+
+#: ui/Settings.ui.h:20 ui/Settings4.ui.h:20
+msgid "Presets"
+msgstr "Voreinstellungen"
+
+#: ui/Settings.ui.h:21
+msgid "Commonly used presets"
+msgstr "Häufig verwendete Voreinstellungen"
+
+#: ui/Settings.ui.h:22 ui/Settings4.ui.h:21
+msgid "No blur, slight dim"
+msgstr "Keine Unschärfe, leichtes Dimmen"
+
+#: ui/Settings.ui.h:23 ui/Settings4.ui.h:22
+msgid "GNOME default"
+msgstr "GNOME-Standard"
+
+#: ui/Settings.ui.h:24 ui/Settings4.ui.h:23
+msgid "Slight blur, slight dim"
+msgstr "Etwas Unschärfe, leichtes Dimmen"
+
+#: ui/Settings.ui.h:25 ui/Settings4.ui.h:24
+msgid "Lock Screen"
+msgstr "Sperrbildschirm"
+
+#: ui/Settings.ui.h:26 ui/Settings4.ui.h:26
+msgid "Debug logging"
+msgstr "Debug-Protokollierung"
+
+#: ui/Settings.ui.h:27 ui/Settings4.ui.h:25
+msgid "Enable logging to system journal"
+msgstr "Protokollierung in System-Journal aktivieren"
+
+#: ui/Settings.ui.h:28 ui/Settings4.ui.h:28
+msgid "Always show new images"
+msgstr "Neue Bilder immer anzeigen"
+
+#: ui/Settings.ui.h:29 ui/Settings4.ui.h:27
+msgid "Switch to new images when available (unless on random mode)"
+msgstr "Zu verfügbaren neuen Bildern wechseln (sofern nicht im Zufallsmodus)"
+
+#: ui/Settings.ui.h:30 ui/Settings4.ui.h:30
+msgid "Enable all features on Wayland"
+msgstr "Alle Features unter Wayland aktivieren"
+
+#: ui/Settings.ui.h:31 ui/Settings4.ui.h:29
+msgid "Some newer features may be unstable on Wayland"
+msgstr "Einige neuere Features können unter Wayland instabil sein"
+
+#: ui/Settings.ui.h:32 ui/Settings4.ui.h:31
+msgid "Screen resolution"
+msgstr "Bildschirmauflösung"
+
+#: ui/Settings.ui.h:33 ui/Settings4.ui.h:32
+msgid "Override automatic resolution selection"
+msgstr "Automatische Auswahl der Auflösung überschreiben"
+
+#: ui/Settings.ui.h:34 ui/Settings4.ui.h:33
+msgid "Manually adjust random interval (seconds)"
+msgstr "Intervall für Zufallsbilder manuell anpassen (Sekunden)"
+
+#: ui/Settings.ui.h:35 ui/Settings4.ui.h:34
+msgid "Random interval"
+msgstr "Zufallsbilder"
+
+#: ui/Settings.ui.h:36 ui/Settings4.ui.h:35
+msgid "Import Bing Wallpaper data"
+msgstr "Bing-Hintergrundbilddaten importieren"
+
+#: ui/Settings.ui.h:37 ui/Settings4.ui.h:36
+msgid "Import previously exported JSON data from wallpaper directory"
+msgstr "Zuvor exportierte JSON-Daten aus dem Hintergrundbildordner importieren"
+
+#: ui/Settings.ui.h:38 ui/Settings4.ui.h:37
+msgid "Import"
+msgstr "Importieren"
+
+#: ui/Settings.ui.h:39 ui/Settings4.ui.h:38
+msgid "Export Bing Wallpaper data"
+msgstr "Bing-Hintergrundbilddaten exportieren"
+
+#: ui/Settings.ui.h:40 ui/Settings4.ui.h:39
+msgid "Export JSON data to wallpaper dir for backup or data migration"
+msgstr ""
+"JSON-Daten für Backup oder Datenmigration in Hintergrundbildordner "
+"exportieren"
+
+#: ui/Settings.ui.h:41 ui/Settings4.ui.h:40
+msgid "Export"
+msgstr "Exportieren"
+
+#: ui/Settings.ui.h:42 ui/Settings4.ui.h:41
+msgid "Always export Bing data"
+msgstr "Bing-Daten immer exportieren"
+
+#: ui/Settings.ui.h:43 ui/Settings4.ui.h:42
+msgid "Export Bing JSON whenever data changes"
+msgstr "Bing-JSON bei Veränderung der Daten exportieren"
+
+#: ui/Settings.ui.h:44 ui/Settings4.ui.h:43
+msgid "Debug options"
+msgstr "Debug-Einstellungen"
+
+#: ui/Settings.ui.h:45 ui/Settings4.ui.h:44
+msgid "New wallpaper images everyday from Bing"
+msgstr "Jeden Tag neue Hintergrundbilder von Bing"
+
+#: ui/Settings.ui.h:46
+msgid "Gnome shell extension version "
+msgstr "Version dieser Gnome-Shell-Erweiterung "
+
+#: ui/Settings.ui.h:47 ui/Settings4.ui.h:46
+msgid "Maintained by Michael Carroll"
+msgstr "Betreut von Michael Carroll"
+
+#: ui/Settings.ui.h:48 ui/Settings4.ui.h:47
+msgid ""
+"Show your support to the author on <a href=\"https://flattr.com/@neffo"
+"\">Flattr</a> or <a href=\"https://github.com/sponsors/neffo\">Github "
+"Sponsors</a>."
+msgstr ""
+"Unterstützen Sie den Autor auf <a href=\"https://flattr.com/@neffo\">Flattr</"
+"a> oder <a href=\"https://github.com/sponsors/neffo\">Github-Sponsoren</a>."
+
+#: ui/Settings.ui.h:49 ui/Settings4.ui.h:48
+msgid "Changes since last version"
+msgstr "Änderungen seit der letzten Version"
+
+#: ui/Settings.ui.h:50 ui/Settings4.ui.h:49
+msgid "Based on NASA APOD Gnome shell extension by Elia Argentieri"
+msgstr "Basiert auf der NASA APOD Gnome-Shell-Erweiterung von Elia Argentieri"
+
+#: ui/Settings.ui.h:51 ui/Settings4.ui.h:50
+msgid ""
+"<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"https://www.gnu.org/licenses/gpl-3.0.html\">GNU General "
+"Public License, version 3 or later</a> for details.</span>"
+msgstr ""
+"<span size=\"small\">Dieses Programm kommt OHNE JEDWEDE GARANTIE.\n"
+"Schauen Sie sich die <a href=\"https://www.gnu.org/licenses/gpl-3.0.html"
+"\">GNU General Public License, Version 3 oder später</a> für weitere Details "
+"an.</span>"
+
+#: ui/Settings.ui.h:53 ui/Settings4.ui.h:52
+msgid "About"
+msgstr "Über"
+
+#: ui/Settings4.ui.h:45
+msgid "GNOME shell extension version "
+msgstr "Version der Gnome-Shell-Erweiterung "
+
+#: ui/carousel.ui.h:1 ui/carousel4.ui.h:2
+msgid "Apply"
+msgstr "Anwenden"
+
+#: ui/carousel.ui.h:2 ui/carousel4.ui.h:3
+msgid "View"
+msgstr "Ansehen"
+
+#: ui/carousel.ui.h:3 ui/carousel4.ui.h:4
+msgid "Info"
+msgstr "Informationen"
+
+#: ui/carousel.ui.h:4 ui/carousel4.ui.h:5
+msgid "Delete"
+msgstr "Löschen"
+
+#: ui/carousel.ui.h:5 ui/carousel4.ui.h:6
+msgid "Set random mode"
+msgstr "Zufallsmodus festlegen"
+
+#: ui/carousel4.ui.h:1
+msgid "<image name here>"
+msgstr "<Name des Bildes>"
+
+#: extension.js:106
+msgid "<No refresh scheduled>"
+msgstr "<Keine Aktualisierung geplant>"
+
+#: extension.js:108 extension.js:110 extension.js:113
+msgid "Awaiting refresh..."
+msgstr "Warten auf Aktualisierung ..."
+
+#: extension.js:115
+msgid "Copy image to clipboard"
+msgstr "Bild in Zwischenablage kopieren"
+
+#: extension.js:116
+msgid "Copy image URL to clipboard"
+msgstr "Bildadresse in Zwischenablage kopieren"
+
+#: extension.js:117
+msgid "Open image folder"
+msgstr "Bilderordner öffnen"
+
+#: extension.js:119
+msgid "Set lock screen image"
+msgstr "Für Sperrbildschirm verwenden"
+
+#: extension.js:120
+msgid "Refresh Now"
+msgstr "Jetzt aktualisieren"
+
+#: extension.js:209
+msgid "Next refresh"
+msgstr "Nächste Aktualisierung"
+
+#: extension.js:505 extension.js:532
+msgid "Bing Wallpaper of the Day for"
+msgstr "Bing-Hintergrundbild des Tages für"
+
+#: extension.js:557
+msgid "No wallpaper available"
+msgstr "Kein Hintergrundbild verfügbar"
+
+#: extension.js:558
+msgid "No picture for today."
+msgstr "Heute kein Bild."
+
+#: prefs.js:159
+msgid "Select folder"
+msgstr "Ordner auswählen"
+
+#: prefs.js:202
+msgid "Most recent image"
+msgstr "Aktuellstes Bild"
+
+#: prefs.js:203
+msgid "Random image"
+msgstr "Zufälliges Bild"
+
+#: utils.js:118
+msgid "Fetching data..."
+msgstr "Daten werden abgerufen..."
+
+#: utils.js:129
+msgid "Market not available in your region"
+msgstr "Bing-Bilder in Ihrer Region nicht verfügbar"
+
+#: utils.js:133
+msgid "A network error occured"
+msgstr "Ein Netzwerkfehler ist aufgetreten"
+
+#: utils.js:138
+msgid "Too many requests in 5 seconds"
+msgstr "Zu viele Anfragen in 5 Sekunden"
+
+#: utils.js:163
+msgid "No change log found for this release"
+msgstr "Kein Änderungsverlauf für diese Version gefunden"
+
+#: utils.js:366 utils.js:369
+msgid "minutes"
+msgstr "Minuten"
+
+#: utils.js:372
+msgid "days"
+msgstr "Tage"
+
+#: utils.js:375
+msgid "hours"
+msgstr "Stunden"
+
+#~ msgid "https://github.com/neffo/bing-wallpaper-gnome-extension"
+#~ msgstr "https://github.com/neffo/bing-wallpaper-gnome-extension"
+
+#~ msgid "Open image gallery"
+#~ msgstr "Bildergalerie öffnen"
+
+#~ msgid "Thumbnail disabled on Wayland"
+#~ msgstr "Vorschaubild unter Wayland deaktiviert"
+
+#~ msgid "More info on Bing.com"
+#~ msgstr "Mehr Informationen auf Bing.com"
+
+#~ msgid "Disabled on current GNOME version"
+#~ msgstr "Auf aktueller GNOME-Version deaktiviert"
+
+#~ msgid "Set as wallpaper"
+#~ msgstr "Als Hintergrundbild verwenden"
+
+#~ msgid "Days to store wallpapers before deleting"
+#~ msgstr "Tage, bevor Hintergrundbilder gelöscht werden"
+
+#~ msgid "Default is English - United States"
+#~ msgstr "Vorgabe ist English - United States"
+
+#~ msgid ""
+#~ "Changes your wallpaper daily to the Bing picture of the day for your "
+#~ "region. Displays the picture description and copyright information."
+#~ msgstr ""
+#~ "Wechselt täglich Ihr Hintergrundbild zum aktuellen Bing Bild des Tages "
+#~ "für Ihre Region. Zeigt eine Benachrichtigung mit Bildbeschreibung und "
+#~ "Urheberrechtsinformation an."
+
+#~ msgid "Set screensaver wallpaper"
+#~ msgstr "Sperrbildschirm-Hintergrund einstellen"
+
+#~ msgid "Send a notification with explanation when a new image is downloaded."
+#~ msgstr ""
+#~ "Eine Benachrichtigung mit Erklärung anzeigen, wenn ein neues Bild "
+#~ "heruntergeladen wurde."
+
+#~ msgid "Notifications"
+#~ msgstr "Benachrichtigungen"
+
+#~ msgid "Use transient notifications (auto dismiss)"
+#~ msgstr "Flüchtige Benachrichtigung (automatisches Entfernen)"
+
+#~ msgid "Show description"
+#~ msgstr "Beschreibung anzeigen"
+
+#, fuzzy
+#~ msgid "Open extension settings"
+#~ msgstr "Öffnen Erweiterung Einstellungen"
+
+#~ msgid "Bing website"
+#~ msgstr "Bing-Webseite"
+
+#, fuzzy
+#~ msgid ""
+#~ "The selected market is not available in your country or geographic "
+#~ "region.\n"
+#~ msgstr ""
+#~ "Der ausgewählte Bing-Region ist in Ihrem Land oder Ihrer Region nicht "
+#~ "verfügbar.\n"
+
+#, fuzzy
+#~ msgid "This market is not available in your region"
+#~ msgstr "Bing-Region nicht in Ihrer Region verfügbar"
+
+#~ msgid "Default is \"auto\""
+#~ msgstr "Vorgabe ist auto"

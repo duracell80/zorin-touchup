@@ -13,8 +13,8 @@ cp -rf $DIR_TEMP/clocks/weatheroclock@CleoMenezesJr.github.io $DIR_EXTT
 cp -rf $DIR_TEMP/clocks/unix-timestamp-clock@se1exin.github.com $DIR_EXTT
 #cp -rf $DIR_TEMP/bing-wallpaper/BingWallpaperineffable-gmail.com.v40.shell-extension $DIR_EXTT
 
-cd $DIR_TEMP/bing-wallpaper/bing-wallpaper-gnome-extension
-$DIR_TEMP/bing-wallpaper/bing-wallpaper-gnome-extension/install.sh
+cd $DIR_TEMP/bing-wallpaper
+$DIR_TEMP/bing-wallpaper/install.sh
 
 cd $CWD
 

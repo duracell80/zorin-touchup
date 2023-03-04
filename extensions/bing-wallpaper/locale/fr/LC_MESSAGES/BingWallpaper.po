@@ -1,0 +1,327 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-09 13:10+1000\n"
+"PO-Revision-Date: 2021-05-09 13:45+1000\n"
+"Last-Translator: Christophe Jean <chrisophe@cjean.fr>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: Settings.ui.h:1 Settings4.ui.h:2
+msgid "Hide the indicator"
+msgstr "Cacher l'indicateur"
+
+#: Settings.ui.h:2 Settings4.ui.h:3
+msgid "Indicator icon"
+msgstr "L'indicateur"
+
+#: Settings.ui.h:3 Settings4.ui.h:4
+msgid "Enable desktop notifications"
+msgstr ""
+
+#: Settings.ui.h:4 Settings4.ui.h:5 extension.js:129
+msgid "Set background image"
+msgstr "Définir l'arrière-plan"
+
+#: Settings.ui.h:5 Settings4.ui.h:6 extension.js:130
+msgid "Set lock screen image"
+msgstr "Définir l'écran de verouillage"
+
+#: Settings.ui.h:6 Settings4.ui.h:7
+msgid "Download folder"
+msgstr "Dossier de téléchargement"
+
+#: Settings.ui.h:7 Settings4.ui.h:1
+msgid "Bing Wallpaper pictures folder"
+msgstr "Dossier d'image de Bing Wallpaper"
+
+#: Settings.ui.h:8 Settings4.ui.h:9
+msgid "Delete previously downloaded wallpapers"
+msgstr "Supprimer les images précédemment téléchargées"
+
+#: Settings.ui.h:9 Settings4.ui.h:10
+msgid "Days to store wallpapers before deleting"
+msgstr ""
+"Nombres de jours pendant lesquels les arrière-plans sont conservés avant "
+"suppression"
+
+#: Settings.ui.h:10 Settings4.ui.h:11
+msgid "Bing locale"
+msgstr "Localisation de Bing"
+
+#: Settings.ui.h:11 Settings4.ui.h:12
+msgid "Default is English - United States"
+msgstr "Anglais - États-Unis par défaut"
+
+#: Settings.ui.h:12 Settings4.ui.h:14
+msgid "Screen resolution"
+msgstr "Résolution"
+
+#: Settings.ui.h:13 Settings4.ui.h:15
+msgid "Override automatic resolution selection"
+msgstr "Ignorer la sélection de résolution automatique"
+
+#: Settings.ui.h:14 Settings4.ui.h:13
+#, fuzzy
+msgid "Selected image"
+msgstr "Image sélectionnée"
+
+#: Settings.ui.h:15 Settings4.ui.h:16 extension.js:132
+msgid "Settings"
+msgstr "Paramétres"
+
+#: Settings.ui.h:16 Settings4.ui.h:17
+msgid "Use custom blur and brightness"
+msgstr ""
+
+#: Settings.ui.h:17 Settings4.ui.h:18
+msgid "Override GDM3 lockscreen effects"
+msgstr ""
+
+#: Settings.ui.h:18 Settings4.ui.h:19
+msgid "Blur can improve readability of login prompt"
+msgstr ""
+
+#: Settings.ui.h:19 Settings4.ui.h:20
+msgid "Background blur intensity"
+msgstr ""
+
+#: Settings.ui.h:20 Settings4.ui.h:21
+msgid "Can improve contrast of login prompt"
+msgstr ""
+
+#: Settings.ui.h:21 Settings4.ui.h:22
+msgid "Background brightness"
+msgstr ""
+
+#: Settings.ui.h:22 Settings4.ui.h:23
+msgid "Presets"
+msgstr ""
+
+#: Settings.ui.h:23 Settings4.ui.h:24
+msgid "Commonly used presets"
+msgstr ""
+
+#: Settings.ui.h:24 Settings4.ui.h:25
+msgid "No blur, slight dim"
+msgstr ""
+
+#: Settings.ui.h:25 Settings4.ui.h:26
+msgid "GNOME default"
+msgstr ""
+
+#: Settings.ui.h:26 Settings4.ui.h:27
+msgid "Slight blur, slight dim"
+msgstr ""
+
+#: Settings.ui.h:27 Settings4.ui.h:28
+msgid "Lock Screen"
+msgstr ""
+
+#: Settings.ui.h:28 Settings4.ui.h:29
+msgid "New wallpaper images everyday from Bing"
+msgstr ""
+
+#: Settings.ui.h:29 Settings4.ui.h:30
+msgid "Gnome shell extension version "
+msgstr "Version de l'extension Gnome shell "
+
+#: Settings.ui.h:30 Settings4.ui.h:31
+msgid "https://github.com/neffo/bing-wallpaper-gnome-extension"
+msgstr "https://github.com/neffo/bing-wallpaper-gnome-extension"
+
+#: Settings.ui.h:31 Settings4.ui.h:32
+msgid "Maintained by Michael Carroll"
+msgstr "Maintenu par Michael Carroll"
+
+#: Settings.ui.h:32 Settings4.ui.h:33
+msgid ""
+"Show your support to the author on <a href=\"https://flattr.com/@neffo"
+"\">Flattr</a> or <a href=\"https://github.com/sponsors/neffo\">Github "
+"Sponsors</a>."
+msgstr ""
+
+#: Settings.ui.h:33 Settings4.ui.h:34
+msgid "Changes since last version"
+msgstr ""
+
+#: Settings.ui.h:34 Settings4.ui.h:35
+msgid "Based on NASA APOD Gnome shell extension by Elia Argentieri"
+msgstr "Basé sur l'extension Gnome shell NASA APNN de Elia Argentieri"
+
+#: Settings.ui.h:35 Settings4.ui.h:36
+#, fuzzy
+#| msgid ""
+#| "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+#| "See the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+#| "\">GNU General Public License, version 3 or later</a> for details.</span>"
+msgid ""
+"<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"https://www.gnu.org/licenses/gpl-3.0.html\">GNU General "
+"Public License, version 3 or later</a> for details.</span>"
+msgstr ""
+"<span size=\"small\">Ce programme est livré avec ABSOLUMENT AUCUNE "
+"GARANTIE.\n"
+"Consultez la <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+"\">GNU General Public License, version 3 ou supérieure </a> pour les détails."
+"</span>"
+
+#: Settings.ui.h:37 Settings4.ui.h:38
+msgid "About"
+msgstr "A propos"
+
+#: Settings4.ui.h:8
+#, fuzzy
+msgid "Open folder"
+msgstr "Ouvrir le dossier"
+
+#: extension.js:117
+msgid "<No refresh scheduled>"
+msgstr "<Aucune actualisation planifiée>"
+
+#: extension.js:119 extension.js:121 extension.js:123
+#, fuzzy
+msgid "Awaiting refresh..."
+msgstr "En attente de actualisation..."
+
+#: extension.js:126
+msgid "Copy image to clipboard"
+msgstr "Copier l'image dans le presse-papiers"
+
+#: extension.js:127
+msgid "Copy image URL to clipboard"
+msgstr "Copier l'URL de l'image dans le presse-papiers"
+
+#: extension.js:128
+#, fuzzy
+msgid "Open image folder"
+msgstr "Ouvrir le dossier d'images"
+
+#: extension.js:131
+msgid "Refresh Now"
+msgstr "Actualiser maintenant"
+
+#: extension.js:137
+msgid "Thumbnail disabled on Wayland"
+msgstr ""
+
+#: extension.js:203
+msgid "Next refresh"
+msgstr "Prochaine actualisation"
+
+#: extension.js:490 extension.js:527
+msgid "Bing Wallpaper of the Day for"
+msgstr "Le fond d'écran Bing du jour pour"
+
+#: extension.js:495
+msgid "Set as wallpaper"
+msgstr "Définir le fond d'écran"
+
+#: extension.js:498
+msgid "More info on Bing.com"
+msgstr ""
+
+#: extension.js:553
+msgid "No wallpaper available"
+msgstr "Aucun fond d'écran disponnible"
+
+#: extension.js:554
+msgid "No picture for today."
+msgstr "Pas d'image pour aujourd'hui."
+
+#: prefs.js:173
+#, fuzzy
+msgid "Most recent image"
+msgstr "L'image d'aujourd'hui"
+
+#: prefs.js:174
+msgid "Random image"
+msgstr "Image aléatoire"
+
+#: prefs.js:190 prefs.js:206
+msgid "Disabled on current GNOME version"
+msgstr ""
+
+#: utils.js:139
+msgid "Fetching data..."
+msgstr "Récupération des données..."
+
+#: utils.js:150
+msgid "Market not available in your region"
+msgstr "Marché non disponible dans votre région"
+
+#: utils.js:154
+msgid "A network error occured"
+msgstr "Une erreur de réseau est survenue"
+
+#: utils.js:159
+msgid "Too many requests in 5 seconds"
+msgstr ""
+
+#: utils.js:186
+msgid "No change log found for this release"
+msgstr ""
+
+#: utils.js:366 utils.js:369
+#, fuzzy
+msgid "minutes"
+msgstr "minutes"
+
+#: utils.js:372
+#, fuzzy
+msgid "days"
+msgstr "jours"
+
+#: utils.js:375
+#, fuzzy
+msgid "hours"
+msgstr "heures"
+
+#~ msgid ""
+#~ "Changes your wallpaper daily to the Bing picture of the day for your "
+#~ "region. Displays the picture description and copyright information."
+#~ msgstr ""
+#~ "Change votre arrière-plan tous les jours pour l'image Bing du jour de "
+#~ "votre région. Crée une notification décrivant l'image et les informations "
+#~ "de copyright."
+
+#~ msgid "Send a notification with explanation when a new image is downloaded."
+#~ msgstr ""
+#~ "Envoyer une notification avec explication lorsqu'une nouvelle image est "
+#~ "téléchargée."
+
+#~ msgid "Notifications"
+#~ msgstr "Notifications"
+
+#~ msgid "Use transient notifications (auto dismiss)"
+#~ msgstr "Utiliser des notifications transitoires (rejet automatique)"
+
+#~ msgid "Show description"
+#~ msgstr "Afficher la description"
+
+#~ msgid "Open extension settings"
+#~ msgstr "Ouvrir les préférences de l'extension"
+
+#~ msgid "Bing website"
+#~ msgstr "Site de Bing"
+
+#~ msgid ""
+#~ "The selected market is not available in your country or geographic "
+#~ "region.\n"
+#~ msgstr ""
+#~ "Le marché sélectionné n'est pas disponible dans votre pays ou région "
+#~ "géographique.\n"
+
+#~ msgid "This market is not available in your region"
+#~ msgstr "Ce marché n'est pas disponible dans votre région"
